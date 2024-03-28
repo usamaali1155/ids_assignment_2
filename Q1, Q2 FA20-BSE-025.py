@@ -1,3 +1,12 @@
+# 28 March 24
+# CSC461 – Assignment2 – IDS – Data Visualization
+# Usama Ali
+# FA20-BSE-025
+# Question1: [CLO-2] - [Bloom Taxonomy Level: <Applying>]
+#The world population dataset provides population data from 1960 to 2020 for countries around the world.
+#Compare the populations of top 10 highest populated countries (in 2020) over the entire period using a chart.
+#Make appropriate modifications to the chart title, axis titles, legend, figure size, font size, colors etc. to make
+#the chart readable and visually appealing.
 import pandas as pd
 import matplotlib.pyplot as plt
 
