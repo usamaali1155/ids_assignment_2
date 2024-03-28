@@ -2,12 +2,12 @@
 # CSC461 – Assignment2 – IDS – Data Visualization
 # Usama Ali
 # FA20-BSE-025
-#Question2: [CLO-2] - [Bloom Taxonomy Level: <Applying>]
-#Using the world population dataset (from Q1)
-#• Show the population of 10 least populous countries in 2015 using a chart.
-#• Calculate the change in population of Pakistan, India, United States, and United Kingdom from 1970
-#to 2010 and show the population change (in millions) using a chart.
-#• Calculate the Pakistan population growth between 2010-2020 and then show the data using a chart.
+#Question3: [CLO-2] - [Bloom Taxonomy Level: <Applying>]
+#The diamonds dataset contains 53,000 records with various attributes like carat, cut, color, clarity, price etc.
+#Plot the relationship between ‘carat’ and ‘price’ of diamonds using a chart. Because it’s a large dataset, just
+#plot the diamonds with a ‘clarify’ = ‘SI2’ and ‘color’ = ‘E’. Use the values of the ‘cut’ for colors in the plot.
+#Make appropriate modifications to the chart title, axis titles, legend, figure size, font size, colors etc. to make
+#the chart readable and visually appealing
 
 import matplotlib.pyplot as plt
 import seaborn as sns
