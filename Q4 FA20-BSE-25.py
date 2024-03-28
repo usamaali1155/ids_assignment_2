@@ -2,12 +2,10 @@
 # CSC461 – Assignment2 – IDS – Data Visualization
 # Usama Ali
 # FA20-BSE-025
-#Question3: [CLO-2] - [Bloom Taxonomy Level: <Applying>]
-#The diamonds dataset contains 53,000 records with various attributes like carat, cut, color, clarity, price etc.
-#Plot the relationship between ‘carat’ and ‘price’ of diamonds using a chart. Because it’s a large dataset, just
-#plot the diamonds with a ‘clarify’ = ‘SI2’ and ‘color’ = ‘E’. Use the values of the ‘cut’ for colors in the plot.
-#Make appropriate modifications to the chart title, axis titles, legend, figure size, font size, colors etc. to make
-#the chart readable and visually appealing.
+#Question4: [CLO-2] - [Bloom Taxonomy Level: <Applying>]
+#The nuclear waste dataset contains the locations of several nuclear waste storage sites in the US. Use map of
+#the US to show these sites as markers on the map. Clicking on a marker should display the name of the site.
+#pick the appropriate location, zoom level and images tiles for the map.
 
 import pandas as pd
 import folium
