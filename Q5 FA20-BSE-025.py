@@ -1,3 +1,12 @@
+# 28 March 24
+# CSC461 – Assignment2 – IDS – Data Visualization
+# Usama Ali
+# FA20-BSE-025
+#Question5: [CLO-2] - [Bloom Taxonomy Level: <Applying>]
+#The Pakistan heritage sites dataset contains the geo locations of a number of heritage sites across Pakistan.
+#Show these sites as markers on a map of the Pakistan. Clicking on a marker should display the name of the
+#site. Pick the appropriate location, zoom level and images tiles for the map.
+
 import pandas as pd
 import folium
 
